@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌐 &nbsp;Software Engineer at [WRLD](https://github.com/wrld3d)
-- 🍿 &nbsp; Co-Founder at [PICKMO](https://pickmo.app)
-- ⚛ &nbsp;React Enthusiast
-- 📷 &nbsp;Amateur Photographer
+🌐 &nbsp;Software Engineer at [WRLD](https://github.com/wrld3d)\
+🍿 &nbsp; Co-Founder at [PICKMO](https://pickmo.app)\
+⚛ &nbsp;React Enthusiast\
+📷 &nbsp;Amateur Photographer
 
 
 ### 🛠 &nbsp;Tech Stack
